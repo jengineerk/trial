@@ -6,6 +6,7 @@ public class act3_5 {
 		// TODO Auto-generated method stub
 		
 		System.out.print("Hola, Món!");
+		System.out.print("Hola, Joshua!");
 
 	}
 
